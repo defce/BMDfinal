@@ -1,4 +1,4 @@
-# BMDfinal ↓↓↓↓
+# Deep learning
 
 Deep learning project that uses Stable Diffusion to generate synthetic chest x-rays!
 
