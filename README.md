@@ -1,4 +1,4 @@
-# Deep Learning
+# GenAI - Deep Learning for Image Generation
 
 Deep learning project that uses Stable Diffusion to generate synthetic chest x-rays!
 
