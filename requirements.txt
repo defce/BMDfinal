@@ -1,0 +1,15 @@
+diffusers==0.23.1
+transformers==4.34.0
+accelerate==0.23.0
+peft==0.6.0
+huggingface-hub==0.17.3
+bitsandbytes
+torch
+pandas
+numpy
+Pillow
+tqdm
+matplotlib
+transformers
+diffusers
+peft

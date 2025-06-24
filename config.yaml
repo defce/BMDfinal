@@ -1,0 +1,5 @@
+resolution: 256
+num_samples: 2000
+epochs: 5
+lora_rank: 16
+learning_rate: 0.0001
